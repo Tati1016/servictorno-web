@@ -1,6 +1,6 @@
 # SERVICTORNO L.C — Sitio Web Corporativo
 
-Sitio web institucional desarrollado para **SERVICTORNO L.C**, 
+Sitio web comercial desarrollado para **SERVICTORNO L.C**, 
 microempresa de mecanizado de precisión ubicada en Yopal, Casanare. 
 Orientada a los sectores petrolero, civil e industrial de la región.
 
