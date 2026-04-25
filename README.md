@@ -10,7 +10,7 @@ Orientada a los sectores petrolero, civil e industrial de la región.
 
 ## 📋 Descripción
 
-Página web corporativa que presenta los servicios, portafolio de 
+Página web corporativa y comercial que presenta los servicios, portafolio de 
 proyectos y canales de contacto de la empresa. Diseñada para 
 captar clientes industriales y facilitar solicitudes de cotización 
 directamente desde el sitio.
